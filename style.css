@@ -49,7 +49,7 @@ a {
     width: 450px;
 }
 
-button {
+.text button {
     background-color: #3882F6;
     color: white;
     border: none;
@@ -142,4 +142,37 @@ img {
     font-size: 25px;
     font-weight: bold;
     align-self: flex-end;
+}
+
+.fourth-section {
+    background-color: #3882F6;
+    display: flex;
+    gap: 140px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 80px 260px;
+    padding: 40px 130px;
+    border-radius: 8px;
+}
+
+.text-one {
+    font-weight: bold;
+    font-size: 20px;
+    color: #F9FAF8;
+}
+
+.text-two {
+    font-weight: 100;
+    color: #E5E7EB;
+    font-size: 15px;
+}
+
+.fourth-section button {
+    color: white;
+    background-color: #3882F6;
+    border: white solid 2px;
+    border-radius: 8px;
+    font-size: 18px;
+    width: 135px;
+    height: 35px;
 }
