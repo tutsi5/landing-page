@@ -1,6 +1,5 @@
 body {
     font-family: 'Roboto', sans-serif;
-    height: 250vh;
     margin: 0;
     padding: 0;
 }
@@ -43,6 +42,7 @@ a {
     justify-content: space-between;
     margin-bottom: 100px;
     align-items: center;
+    gap: 50px;
 }
 
 .text {
@@ -98,6 +98,7 @@ img {
 .photos img {
     width: 160px;
     border-radius: 10px;
+    border: #3882F6 solid 3px;
 }
 
 .first-photo,
@@ -150,7 +151,7 @@ img {
     gap: 140px;
     justify-content: space-between;
     align-items: center;
-    margin: 80px 260px;
+    margin: 90px 260px;
     padding: 40px 130px;
     border-radius: 8px;
 }
@@ -175,4 +176,16 @@ img {
     font-size: 18px;
     width: 135px;
     height: 35px;
+}
+
+.footer {
+    background-color: #1F2937;
+    padding: 40px;
+    
+}
+
+.footer-text {
+    color: #F9FAF8;
+    text-align: center;
+    font-size: 16px;
 }
