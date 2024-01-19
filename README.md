@@ -1,5 +1,5 @@
 # landing-page
-This is a project I am doing as part of the curriculum from The Odin Project. In it, I will demonstrate the HTML and CSS (Flexbox) knowledge I have acquired up to this point.
+Simple Landing Page - this project is a part of The Odin Project curriculum. In it, I've demonstrated the HTML and CSS (Flexbox) knowledge I have acquired up to that point.
 
 Photos by (in order of appearance):
 Inge Wallumrød (https://www.pexels.com/@ingewallu/);

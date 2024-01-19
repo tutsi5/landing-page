@@ -11,9 +11,10 @@ body {
 
 .header {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     margin-bottom: 100px;
+    gap: 410px;
 }
 
 .logo {
