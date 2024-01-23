@@ -14,13 +14,12 @@ body {
     justify-content: center;
     align-items: center;
     margin-bottom: 100px;
-    gap: 410px;
+    gap: 660px;
 }
 
-.logo {
-    font-size: 24px;
-    font-weight: bolder;
-    color: #F9FAF8;
+.imgLogo {
+    width: 120px;
+    height: auto;
 }
 
 ul {
